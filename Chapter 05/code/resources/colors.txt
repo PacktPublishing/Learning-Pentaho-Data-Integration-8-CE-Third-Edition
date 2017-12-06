@@ -1,0 +1,4 @@
+BlackAndWhite,<color-palette><color>#ffffff</color><color>#b9b9b9</color><color>#8e8e8e</color><color>#727272</color><color>#000000</color></color-palette>
+primary,<color-palette><color>#f40707</color><color>#1b00c7</color><color>#e7e035</color><color>#17d640</color><color>#f6f3f3</color></color-palette>
+Blue,<color-palette><color>#a8cafe</color><color>#224dce</color><color>#05146e</color><color>#0c226f</color><color>#ede7fd</color></color-palette>
+Generic,<color-palette><color>#C52F0D</color><color>#123D82</color><color>#4A0866</color><color>#445500</color><color>#FFAA00</color></color-palette>
